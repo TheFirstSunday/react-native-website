@@ -43,6 +43,10 @@ npm install -g yarn
 
 ```shell
 brew cask install adoptopenjdk/openjdk/adoptopenjdk8
+
+homebrew 2.5.11 之后
+
+brew install adoptopenjdk/openjdk/adoptopenjdk8
 ```
 
 React Native 需要 Java Development Kit [JDK] 1.8（暂不支持 1.9 及更高版本，注意 1.8 版本官方也直接称 8 版本）。你可以在命令行中输入
