@@ -42,10 +42,6 @@ npm install -g yarn
 我们推荐使用[Homebrew](http://brew.sh/)来安装 JDK：
 
 ```shell
-brew cask install adoptopenjdk/openjdk/adoptopenjdk8
-
-homebrew 2.5.11 之后
-
 brew install adoptopenjdk/openjdk/adoptopenjdk8
 ```
 
